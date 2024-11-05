@@ -59,7 +59,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 1.Unit Testing: Testing individual components or modules of software. THis helps in catching small, isolated bugs early.
 2.Integration Testing: Testing interactions between different components or subsystems.This helps to find and address issues with how components work together.
 3.System Testing: Testing the entire software system as a whole. This provides an end to end assessment of the software's performance.
-4.Acceptance Testing: Testing the software against user requirements to ensure it meets user needs. This ensures that the final product meets user expectaions and business requirements.
+4.Acceptance Testing: Testing the software against user requirements to ensure it meets user needs. This ensures that the final product meets user expectations and business requirements.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
